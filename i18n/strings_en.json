@@ -1,7 +1,7 @@
 {
 	"plugin1":
 	{
-		"PLUGINCONF":"Rotary Encoder Plugin Configuration",
+		"PLUGINCONF":"Bonjour j'allume volumio",
 		"GLOBALSETTINGS":"Global settings",
 		"D_GLOBALSETTINGS":"Set the global variables for the plugin, these apply to both encoders.",
 		"LONGPRESS_THRESHOLD":"Long press threshold in milliseconds",
