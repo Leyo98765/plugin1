@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Installing Rotary Encoder and its dependencies"
+echo "Installing plugin1 and its dependencies"
 
 echo "No additional packages needed."
 echo "Continuing..."
