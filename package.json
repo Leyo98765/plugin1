@@ -1,15 +1,15 @@
 {
-	"name": "rotaryencoder",
+	"name": "plugin1",
 	"version": "1.2.4",
 	"description": "Provides a rotary encoder interface for use in Volumio 2.x",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "Saiyato",
+	"author": "yojacque",
 	"license": "MIT",
 	"volumio_info": {
-		"prettyName": "Rotary Encoder",
+		"prettyName": "plugin1",
 		"icon": "fa-circle-o-notch",
 		"plugin_type": "user_interface"
 	},
